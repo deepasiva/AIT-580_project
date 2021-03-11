@@ -13,7 +13,7 @@ The primary objective of our project is to quantify measurable impacts of defore
 
 ### Partners
 * Deepa Sivakumar - dsivakum@gmu.edu
-* Fariya Zahed - fzahed@gmau.edu
+* Fariya Zahed - fzahed@gmu.edu
 
 ### Methods Used
 * Exprolative Data Analysis
