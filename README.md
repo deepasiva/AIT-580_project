@@ -62,6 +62,6 @@ The primary objective of our project is to quantify measurable impacts of defore
 * [Notebook/Markdown/Slide Deck Title](link)
 
 
-**Team Member (Contacts) : [Deepa Sivakumar](https://github.com/[github handle])**
+**Team Member (Contacts) : [Deepa Sivakumar](https://github.com/deepasiva)**
 **Team Member (Contacts) : [Fariya Zahed](https://github.com/[github handle])**
 
