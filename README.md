@@ -16,7 +16,7 @@ The primary objective of our project is to quantify measurable impacts of defore
 * Fariya Zahed - fzahed@gmau.edu
 
 ### Methods Used
-* Exxprolative Data Analysis
+* Exprolative Data Analysis
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
@@ -45,7 +45,7 @@ The primary objective of our project is to quantify measurable impacts of defore
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](https://github.com/deepasiva/AIT-558) within this repo.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
     
